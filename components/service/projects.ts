@@ -18,7 +18,7 @@ export const projects: Project[] = [
             "Developed a responsive web application using HTML,CSS,JAVASCRIPT and Firebase to showcase Sri Lankan tourist attraction by category , allowing users to explore and book destinations",
         technologies: ["HTML", "CSS", "JAVASCRIPT", "FIREBASE"],
         type: "web",
-        image: "/images/tourist.jpg?height=300&width=400",
+        image: "/images/tourist.JPG?height=300&width=400",
         github: "https://github.com/shaliniPerer/MS-Travel",
         live: "https://github.com/shaliniPerer/MS-Travel",
     },

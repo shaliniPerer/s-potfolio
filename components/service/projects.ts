@@ -43,11 +43,11 @@ export const projects: Project[] = [
         github: "https://github.com/shaliniPerer/investment",
         live: "https://investment-iota-gules.vercel.app/",
     },
-    {
+     {
         id: 4,
         title: "Hostel Management Mobile Application",
         description:
-            "Built a mobile application using Flutter and Firebase for hostel room bookings, request submissions, QR code attendance tracking, and in-app messaging for students.",
+            "Built a mobile application using Flutter and Firebase for hostel room bookings, request submissions, QR code attendence tracking, and in- app messaging for students.",
         technologies: ["Flutter", "Dart", "Firebase", "Cloud Firestore"],
         type: "mobile",
         image: "/images/hostel.JPG?height=300&width=400",
@@ -56,46 +56,24 @@ export const projects: Project[] = [
     },
     {
         id: 5,
-        title: "Waste Management Mobile Application",
+        title: "Auto Grader - AI Powerd Assignment Marker",
         description:
-            "Developed a mobile application using Flutter to scan waste daily using QR Code and identify waste types.",
-        technologies: ["Flutter", "Dart", "Firebase", "Cloud Firestore"],
-        type: "mobile",
-        image: "/images/was.JPG?height=300&width=400",
-        github: "#",
-        live: "#",
-    },
-    {
-        id: 6,
-        title: "High-way Bus Management System",
-        description:
-            "Enhanced a web-based reservation system using HTML, CSS, JavaScript, and MySQL, allowing passengers to view schedules, book seats, and receive payment confirmations.",
-        technologies: ["HTML", "CSS", "JavaScript", "MySQL"],
-        type: "web",
-        image: "/images/bus.JPG?height=300&width=400",
-        github: "#",
-        live: "#",
-    },
-    {
-        id: 7,
-        title: "Auto Grader - AI Powered Assignment Marker",
-        description:
-            "Created a web application and model using Random Forest to automate grading essay-type assignment answers.",
-        technologies: ["Next.js", "TypeScript", "Node.js", "Python"],
+            "Created a web application and model using Random Forest for automate grading eassy type assignment answers",
+        technologies: ["Nex.js", "TypeScript", "Node.js", "Python"],
         type: "ai",
         image: "/images/grader.JPG?height=300&width=400",
         github: "https://github.com/shaliniPerer/autoGrader-v-1-dewmindi-do-4",
         live: "https://github.com/shaliniPerer/autoGrader-v-1-dewmindi-do-4",
     },
     {
-        id: 8,
-        title: "Food Delivery Web Based Application",
+        id: 6,
+        title: "MS Travel - Tourism Web Application",
         description:
-            "Developed a food ordering platform with account creation, login, shopping cart functionality, and Stripe payment gateway for secure online transactions.",
-        technologies: ["React.js", "TypeScript", "Node.js", "Express"],
+            "Developed a responsive web application using HTML,CSS,JAVASCRIPT and Firebase to showcase Sri Lankan tourist attraction by category , allowing users to explore and book destinations",
+        technologies: ["HTML", "CSS", "JAVASCRIPT", "FIREBASE"],
         type: "web",
-        image: "/images/food.JPG?height=300&width=400",
-        github: "https://github.com/shaliniPerer/food_delivery_application",
-        live: "https://github.com/shaliniPerer/food_delivery_application",
+        image: "/images/tourist.jpg?height=300&width=400",
+        github: "https://github.com/shaliniPerer/MS-Travel",
+        live: "https://github.com/shaliniPerer/MS-Travel",
     },
-];
+]

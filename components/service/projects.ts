@@ -65,18 +65,7 @@ export const projects: Project[] = [
         // live: "https://github.com/shaliniPerer/Hostel_Management_System",
     },
     {
-         id: 5,
-        title: "InvesterPro - Investment Management Web Application",
-        description:
-            "Management of investment portfolios, tracking stocks, bonds, and mutual funds and providing real-time market data.",
-        technologies: ["Next.js", "TypeScript", "MongoDB"],
-        type: "web",
-        image: "/images/invest.JPG?height=300&width=400",
-        github: "https://github.com/shaliniPerer/investment",
-        live: "https://investment-iota-gules.vercel.app/",
-    },
-    {
-        id: 6,
+        id: 5,
         title: "Dream Coach Lines - Tourism Web Application",
         description:
             "Canada-Based Tourism Web Application with payment gateway integration, email notifications with QR codes and a QR Code Scanner for ticket verification.",
@@ -86,4 +75,16 @@ export const projects: Project[] = [
         github: "https://dreamcoachlines.com/",
         live: "https://github.com/shaliniPerer/Dream_Coach_Lines",
     },
+    {
+         id: 6,
+        title: "InvesterPro - Investment Management Web Application",
+        description:
+            "Management of investment portfolios, tracking stocks, bonds, and mutual funds and providing real-time market data.",
+        technologies: ["Next.js", "TypeScript", "MongoDB"],
+        type: "web",
+        image: "/images/invest.JPG?height=300&width=400",
+        github: "https://github.com/shaliniPerer/investment",
+        live: "https://investment-iota-gules.vercel.app/",
+    },
+    
 ]
